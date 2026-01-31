@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.dizzyz7.lunar.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "EntityNavigationMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
